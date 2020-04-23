@@ -1,5 +1,4 @@
 # Tip-Calculator
-# Heading
 
 ## In-Progress
 
